@@ -14,7 +14,7 @@ This project presents a comprehensive business intelligence analysis focusing on
 
 ![alt text](https://github.com/RCoelhojr/BI-EuroFinance-Report/blob/main/Files/Dashboard-Image.png)
 
-## 1. Sales Trends
+## Sales Trends
 
 Total Revenue: €126,014,012.15
 
@@ -26,7 +26,7 @@ Consolidated Profit Margin: 68.95%
 
 The analysis underscores strong operational efficiency and profitability during the period under review.
 
-## 2. Product Performance
+## Product Performance
 
 Best-Performing Product
 
@@ -52,7 +52,7 @@ Gross Profit: €5,838,465.60
 
 Gross Profit Margin: 68.48%
 
-## 3. Regional Analysis (2017)
+## Regional Analysis (2017)
 
 Denmark and Czech Republic: Demonstrated noticeable annual growth, reflecting a positive trend in their respective markets.
 
@@ -60,7 +60,7 @@ Germany: Experienced stability with consistent performance throughout the year.
 
 These insights highlight contrasting growth dynamics across the regions, with Denmark and the Czech Republic showing upward momentum and Germany maintaining steady results.
 
-## 4. Strategic Recommendations
+## Strategic Recommendations
 
 Focus on High-Performing Products
 
