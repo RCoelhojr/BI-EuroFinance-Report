@@ -6,7 +6,7 @@
 - [2. Product Performance](#2.-Product-Performance)
 - [3. Regional Analysis (2017)](#3.-Regional-Analysis-(2017))
 - [4. Strategic Recommendations](#4.-Strategic-Recommendations)
-- [5. Conclusion](#Conclusion)]
+- [5. Conclusion](#Conclusion)
 
 ## Overview
 
