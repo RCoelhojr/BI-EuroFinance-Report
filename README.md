@@ -14,7 +14,7 @@ This project presents a comprehensive business intelligence analysis focusing on
 
 #### Dashboard Overview
 
-![Alt text]([https://github.com/RCoelhojr/Absenteeism-HR-End-To-End-Project/blob/main/Files/Dashboard-Image.png](https://github.com/RCoelhojr/BI-EuroFinance-Report/blob/main/Files/Dashboard-Image.png))
+![alt text]([http://url/to/img.png](https://github.com/RCoelhojr/BI-EuroFinance-Report/blob/main/Files/Dashboard-Image.png))
 
 ## 1. Sales Trends
 
