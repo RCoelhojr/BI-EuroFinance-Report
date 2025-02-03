@@ -4,7 +4,7 @@
 - [Overview](#Overview)
 - [Sales Trends](#Sales-Trends)
 - [Product Performance](#Product-Performance)
-- [Regional Analysis (2017)](#Regional-Analysis-(2017))
+- [Regional Analysis)](#Regional-Analysis)
 - [Strategic Recommendations](#Strategic-Recommendations)
 - [Conclusion](#Conclusion)
 
@@ -52,7 +52,7 @@ Gross Profit: €5,838,465.60
 
 Gross Profit Margin: 68.48%
 
-## Regional Analysis (2017)
+## Regional Analysis
 
 Denmark and Czech Republic: Demonstrated noticeable annual growth, reflecting a positive trend in their respective markets.
 
