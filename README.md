@@ -2,9 +2,9 @@
 
 ## Table of Contents
 - [Overview](#Overview)
-- [1. Sales Trends](#1.-Sales=Trends)
+- [1. Sales Trends](#1.-Sales-Trends)
 - [2. Product Performance](#2.-Product-Performance)
-- [3. Regional Analysis (2017)}(#3.-Regional-Analysis-2017)
+- [3. Regional Analysis (2017)](#3.-Regional-Analysis-(2017))
 - [4. Strategic Recommendations](#4.-Strategic-Recommendations)
 
 ## Overview
