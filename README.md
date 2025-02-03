@@ -14,7 +14,7 @@ This project presents a comprehensive business intelligence analysis focusing on
 
 ## Dashboard Overview
 
-![alt text]((https://github.com/RCoelhojr/BI-EuroFinance-Report/blob/main/Files/Dashboard-Image.png))
+![alt text](https://github.com/RCoelhojr/BI-EuroFinance-Report/blob/main/Files/Dashboard-Image.png)
 
 ## 1. Sales Trends
 
