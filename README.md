@@ -12,9 +12,9 @@
 
 This project presents a comprehensive business intelligence analysis focusing on the financial results of the company in Europe during the period from 2014 to 2017. The analysis highlights sales trends, product performance, regional market insights, and strategic recommendations to enhance operational efficiency and profitability. 
 
-#### Dashboard Overview
+## Dashboard Overview
 
-![alt text]([http://url/to/img.png](https://github.com/RCoelhojr/BI-EuroFinance-Report/blob/main/Files/Dashboard-Image.png))
+![alt text]((https://github.com/RCoelhojr/BI-EuroFinance-Report/blob/main/Files/Dashboard-Image.png))
 
 ## 1. Sales Trends
 
