@@ -4,7 +4,7 @@
 - [Overview](#Overview)
 - [Sales Trends](#Sales-Trends)
 - [Product Performance](#Product-Performance)
-- [Regional Analysis)](#Regional-Analysis)
+- [Regional Analysis](#Regional-Analysis)
 - [Strategic Recommendations](#Strategic-Recommendations)
 - [Conclusion](#Conclusion)
 
